@@ -1,0 +1,90 @@
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.exe.config
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.exe
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.pdb
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\MainWindow.baml
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\App.g.cs
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera_MarkupCompile.cache
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.g.resources
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.Properties.Resources.resources
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\GreenLightTracking.csproj.GenerateResource.Cache
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.exe
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.pdb
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\AForge.xml
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\AForge.Controls.xml
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\AForge.Imaging.xml
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\AForge.Math.xml
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\AForge.Video.xml
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\AForge.Vision.xml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.exe.config
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.exe
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.pdb
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\GreenLightTracking.csprojResolveAssemblyReference.cache
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\InputSelection.baml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\MainWindow.baml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\VideoSettings.baml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\InputSelection.g.cs
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\VideoSettings.g.cs
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\App.g.cs
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera_MarkupCompile.cache
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.g.resources
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.Properties.Resources.resources
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\obj\x86\Debug\GreenLightTracking.csproj.GenerateResource.Cache
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.exe
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.pdb
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Controls.dll
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.dll
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Imaging.dll
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Math.dll
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Video.dll
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Vision.dll
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.xml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Controls.xml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Imaging.xml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Math.xml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Video.xml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\AForge.Vision.xml
+C:\Users\Jefferson\JEFFERSON CAM2\WpfPortOfTestingCamera\bin\Debug\BlogsPrajeesh.BlogSpot.WPFControls.pdb
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.exe.config
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.exe.manifest
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.application
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.exe
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.pdb
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Controls.dll
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.dll
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Imaging.dll
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Math.dll
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Video.dll
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Vision.dll
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.xml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Controls.xml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Imaging.xml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Math.xml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Video.xml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\bin\Debug\AForge.Vision.xml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\InputSelection.baml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\MainWindow.baml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\VideoSettings.baml
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\InputSelection.g.cs
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\VideoSettings.g.cs
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\App.g.cs
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera_MarkupCompile.cache
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.g.resources
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.Properties.Resources.resources
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\GreenLightTracking.csproj.GenerateResource.Cache
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.exe.manifest
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.application
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.exe
+C:\Users\Jefferson\JEFFERSON CAM2 - Cópia\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.pdb
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.exe.manifest
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\bin\Debug\WpfPortOfTestingCamera.application
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.exe.manifest
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\WpfPortOfTestingCamera.application
+C:\Users\Jefferson\JEFFERSON CAM\WpfPortOfTestingCamera\obj\x86\Debug\GreenLightTracking.csprojResolveAssemblyReference.cache

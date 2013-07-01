@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfPortOfTestingCamera.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Correção de Provas" WindowStartupLocation="CenterScreen" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" ResizeMode="NoResize" d:DesignHeight="480" d:DesignWidth="640" SizeToContent="WidthAndHeight" SnapsToDevicePixels="True">
+    <DockPanel Name="dockPanel1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="15">
+        <GroupBox Header="Camera" Name="groupBox1" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Grid>
+                <Image HorizontalAlignment="Left" Margin="0" Name="pictureBoxMain" Stretch="Fill" VerticalAlignment="Top" MinHeight="480" MinWidth="640" StretchDirection="DownOnly" MaxWidth="960" MaxHeight="1200" />
+            </Grid>
+        </GroupBox>
+        <StackPanel HorizontalAlignment="Right" Name="stackPanel2" VerticalAlignment="Top" DockPanel.Dock="Right" Margin="15,0,0,0">
+            <GroupBox Name="groupBox2">
+                <StackPanel Name="stackPanel1">
+                    <Button Content="Parar" Height="23" Name="buttonStartStop" Width="120" Margin="0" Click="buttonStartStop_Click" />
+                    
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Prova" Name="groupBox3">
+                <StackPanel>
+                    <Label Content="" Name="prova" />
+                    <Label Content="" Name="item" />
+                    <Label Content="" Name="item1" />
+                    <Label Content="" Name="item2" />
+                    <Label Content="" Name="item3" />
+                    <Label Content="" Name="item4" />
+                    <Label Content="" Name="item5" />
+                    <Label Content="" Name="item6" />
+                    <Label Content="" Name="item7" />
+                    <Label Content="" Name="item8" />
+                    <Label Content="" Name="item9" />
+                    <Label Content="" Name="item10" />
+					
+					
+                    <Label Content="" Name="refer" />
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+    </DockPanel>
+</Window>
